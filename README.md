@@ -90,10 +90,12 @@ Mision-Espacial-Cronos/
 
 ## 🔧 Requisitos y Dependencias
 
-Java: 17 o superior
-Maven: Para la gestión de dependencias y compilación
+- Java: 17 o superior
+- Maven: Para la gestión de dependencias y compilación
     Dependencias Maven:
+  
         JUnit 5 (org.junit.jupiter:junit-jupiter-api y junit-jupiter-engine)
+  
         Otras dependencias transitivas necesarias
 
 ## 🚀 Compilación y Ejecución
@@ -133,7 +135,11 @@ Cada opción permite ingresar datos personalizados.
 ## 🔄 Evolución del Proyecto
 
 ✔ Inicialmente, los módulos usaban valores fijos dentro del código.
+
 ✔ Se decidió permitir entrada dinámica para hacer el programa más flexible.
+
 ✔ Se agregaron pruebas unitarias para evitar errores en cálculos.
+
 ✔ Se mejoró la estructura del código, separando la lógica y la interfaz de usuario.
+
 ✔ El proyecto está listo para futuras mejoras, como una interfaz gráfica o integración con bases de datos.
