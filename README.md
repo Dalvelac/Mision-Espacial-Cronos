@@ -1,4 +1,4 @@
-# Misión Espacial Cronos
+# 𝕸𝖎𝖘𝖎ó𝖓 𝕰𝖘𝖕𝖆𝖈𝖎𝖆𝖑 𝕮𝖗𝖔𝖓𝖔𝖘 🚀
 
 Misión Espacial Cronos es un sistema de software integral diseñado para asistir a la tripulación en una misión espacial con el objetivo de establecer una base en un nuevo planeta. El proyecto integra varios módulos que permiten la conversión y manejo del tiempo, gestión de recursos, monitoreo ambiental, planificación de tareas, navegación en el terreno y comunicación interplanetaria.
 
